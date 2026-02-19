@@ -1,6 +1,6 @@
 # Hey, I'm Chris 
 
-16 year old developer from Texas, USA. I picked up coding at 9, and what started as messing around with Python turned into 7 years of going deeper and deeper down the rabbit hole. Somewhere along the way I picked up 11 languages and developed a slight obsession with making things fast, efficient, and way more complicated than they need to be.
+16 year old developer from Texas, USA. I picked up coding at 9, and what started as messing around with Python turned into 7 years of going deeper and deeper down the rabbit hole. Somewhere along the way I picked up 11+ languages and developed a slight obsession with making things fast, efficient, and way more complicated than they need to be.
 
 I like projects that are actually interesting, reverse engineering stuff, exploiting math patterns in weird places, and building tools that probably shouldn't exist but do anyway.
 
