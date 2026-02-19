@@ -21,7 +21,7 @@ PostgreSQL, MySQL, MongoDB, SQLite, and a little Redis when I'm feeling fancy
 
 **Tools & Other Stuff**
 
-Git, Linux, Docker, Fabric (Minecraft modding API), various packet analysis tools, etc...
+Git, Linux, Docker, Fabric (Minecraft modding API), various packet analysis tools, etc
 
 ---
 
