@@ -1,52 +1,43 @@
-# Hey, I'm Chris 
+# yo im chris
 
-16 year old developer from Texas, USA. I picked up coding at 9, and what started as messing around with Python turned into 7 years of going deeper and deeper down the rabbit hole. Somewhere along the way I picked up 11+ languages and developed a slight obsession with making things fast, efficient, and way more complicated than they need to be.
+16, from texas, ive been coding since i was 9. started with python just messing around and now im here. picked up like 11 languages along the way and now i genuinely can't look at a system without thinking about how to break or optimize it.
 
-I like projects that are actually interesting, reverse engineering stuff, exploiting math patterns in weird places, and building tools that probably shouldn't exist but do anyway.
+i like stuff that's actually interesting. reverse engineering, exploiting math patterns in places they weren't meant to be exploited, building tools that probably shouldn't exist. if it's fast, cursed, or overly complicated for no reason, i'm into it.
 
 ---
 
-## What I Work With
+## what i work with
 
-**Languages**
-
+**languages**
 ```
-Python  C++  Java  JavaScript  TypeScript  Lua / Luau  
+Python  C++  Java  JavaScript  TypeScript  Lua/Luau
 Rust  Go  C#  Bash  SQL  C
 ```
 
-**Databases**
+**databases**
 
-PostgreSQL, MySQL, MongoDB, SQLite, and a little Redis when I'm feeling fancy
+PostgreSQL, MySQL, MongoDB, SQLite, Redis when i'm feeling fancy
 
-**Tools & Other Stuff**
+**other stuff**
 
-Git, Linux, Docker, Fabric (Minecraft modding API), various packet analysis tools, etc
-
----
-
-## What I Actually Build
-
-- **Minecraft mods** using Fabric, everything from motion blur and hit registration fixes to RNG crackers, villager trade automation, and structure seed finders
-- **Reverse engineering tools** including packet proxies and game memory analysis stuff
-- **Math heavy projects** like raymarching engines, 3D renderers, and numerical methods implementations
-- **Discord plugins** via Vencord
-- Random scripts that solve specific problems I have and probably nobody else does
+Git, Linux, Docker, Fabric (minecraft modding), packet analysis tools, etc
 
 ---
 
-## A Bit More About Me
+## what i actually build
 
-- 4.0 GPA, yeah I do both
-- 143 IQ
-- Bilingual (English + Spanish)
-- Drawn to anything that combines programming with interesting math
-- Currently exploring anesthesiology as a possible career path cause it pays a lot, lol.
-
----
-
-## What I'm Into Right Now
-
-Grinding through more low level systems stuff, optimizing things that are already pretty fast, locked in on school and extracurriculars.
+- **minecraft mods** — fabric, everything from motion blur and hit reg fixes to rng crackers, villager trade automation, structure seed finders
+- **reverse engineering stuff** — packet proxies, game memory analysis, that kind of thing
+- **math heavy projects** — raymarching engines, 3d renderers, numerical methods implementations
+- **discord plugins** via vencord
+- random scripts that solve very specific problems i have and nobody else does
 
 ---
+
+## misc
+
+- 4.0 gpa
+- bilingual (english + spanish)
+- IQ 143 if that means anything
+- looking into anesthesiology cause the pay is insane lol
+- currently locked in on low level systems stuff and optimization. if it's already fast i want it faster
